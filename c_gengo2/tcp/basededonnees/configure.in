@@ -1,0 +1,8 @@
+ AC_INIT(basededonnees)
+ AC_PREREQ(1)
+ AC_CONFIG_SRCDIR(mysqlfirst.c login.c enregistrer.c insert.c select1.c )
+ AM_INIT_AUTUMAKE
+ AC_PROG_CC
+ AC_PROG_INSTALL
+ AC_OUTPUT(Makefile)
+

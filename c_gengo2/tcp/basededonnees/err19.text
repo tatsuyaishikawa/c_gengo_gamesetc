@@ -1,0 +1,40 @@
+/tmp/ccipg2UR.o:(.data+0x0): multiple definition of `table1'
+/tmp/cc4tV8wm.o:(.data+0x0): first defined here
+/tmp/ccipg2UR.o: In function `login':
+/mnt/sdb1/home/S13016/tcp/basededonnees/login.c:9: multiple definition of `j'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccipg2UR.o: In function `login':
+/mnt/sdb1/home/S13016/tcp/basededonnees/login.c:9: multiple definition of `k'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccipg2UR.o: In function `login':
+/mnt/sdb1/home/S13016/tcp/basededonnees/login.c:9: multiple definition of `count'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccipg2UR.o:(.data+0x20): multiple definition of `table2'
+/tmp/cc4tV8wm.o:(.data+0x20): first defined here
+/tmp/ccsnt3qn.o:(.data+0x0): multiple definition of `table1'
+/tmp/cc4tV8wm.o:(.data+0x0): first defined here
+/tmp/ccsnt3qn.o: In function `enregistrer':
+/mnt/sdb1/home/S13016/tcp/basededonnees/enregistrer.c:5: multiple definition of `j'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccsnt3qn.o: In function `enregistrer':
+/mnt/sdb1/home/S13016/tcp/basededonnees/enregistrer.c:5: multiple definition of `k'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccsnt3qn.o: In function `enregistrer':
+/mnt/sdb1/home/S13016/tcp/basededonnees/enregistrer.c:6: multiple definition of `count'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccsnt3qn.o:(.data+0x20): multiple definition of `table2'
+/tmp/cc4tV8wm.o:(.data+0x20): first defined here
+/tmp/ccCG0C5S.o:(.data+0x0): multiple definition of `table1'
+/tmp/cc4tV8wm.o:(.data+0x0): first defined here
+/tmp/ccCG0C5S.o: In function `insert':
+/mnt/sdb1/home/S13016/tcp/basededonnees/insert.c:8: multiple definition of `j'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccCG0C5S.o: In function `insert':
+/mnt/sdb1/home/S13016/tcp/basededonnees/insert.c:8: multiple definition of `k'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccCG0C5S.o: In function `insert':
+/mnt/sdb1/home/S13016/tcp/basededonnees/insert.c:8: multiple definition of `count'
+/tmp/cc4tV8wm.o:/mnt/sdb1/home/S13016/tcp/basededonnees/mysqlfirst.c:17: first defined here
+/tmp/ccCG0C5S.o:(.data+0x20): multiple definition of `table2'
+/tmp/cc4tV8wm.o:(.data+0x20): first defined here
+collect2: ld はステータス 1 で終了しました
